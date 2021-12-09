@@ -1,0 +1,1 @@
+server=127.0.0.1;user=root;password=111111;database=vosmerka;sslmode=none
